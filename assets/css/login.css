@@ -1,0 +1,10 @@
+body{
+    background-color: #FF8400;
+}
+
+footer{
+           
+    border-top-style: groove;
+    border-top-color: #007BFF;
+    border-top-width: 7px; 
+}
